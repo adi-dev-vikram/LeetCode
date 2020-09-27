@@ -1,2 +1,1 @@
-# LeetCode
-Repo containing leet code problems
+This Directory contains solutions for leet code problems in C++ and python
